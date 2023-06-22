@@ -1,0 +1,66 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+    font-family: 'Faustina', serif;
+        background: url(images/plant9.jpg)
+        no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
+
+
+h1 {
+    font-size: 3rem;
+    color: white;
+    border: 4px solid bisque;
+    border-radius: 50rem;
+        text-shadow: 2px 2px 0px #000000;
+}
+
+
+
+
+.btn-xl {
+    color: white;
+    border-color: black;
+    background-color: black;
+    padding: 1rem 2rem;
+
+}
+
+
+.btn {
+    font-weight: 700;
+    border-radius: 300px;
+    text-transform: uppercase;
+}
+
+
+.btn-primary {
+    background-color: black;
+    border-color: white;  
+}
+
+
+.btn-primary:hover {
+    background-color: black;
+    border-color: bisque;
+    border-width: 3px;
+}
+
+
+hr {
+    margin: 20px auto;
+    color: bisque;
+    border: 3px solid bisque;
+    max-width: 70px;
+    opacity: 1;  
+}
+
+
+.buffer {
+    height: 10rem;
+}
